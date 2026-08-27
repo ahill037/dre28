@@ -26,6 +26,19 @@
 - Intended production domain: `ayemane.com`
 - GitHub Pages custom-domain file: `CNAME`
 - DNS status on 2026-08-27: `ayemane.com` and `www.ayemane.com` resolve to Squarespace records, so registrar/DNS changes are still required before this repository serves the custom domain.
+- Required apex `A` records for GitHub Pages:
+  - `@` -> `185.199.108.153`
+  - `@` -> `185.199.109.153`
+  - `@` -> `185.199.110.153`
+  - `@` -> `185.199.111.153`
+- Optional apex `AAAA` records for IPv6:
+  - `@` -> `2606:50c0:8000::153`
+  - `@` -> `2606:50c0:8001::153`
+  - `@` -> `2606:50c0:8002::153`
+  - `@` -> `2606:50c0:8003::153`
+- Required `www` record:
+  - `www` -> `ahill037.github.io`
+- After DNS propagates and GitHub issues the certificate, enable HTTPS enforcement in GitHub Pages settings.
 
 ## Important Notes
 
