@@ -15,6 +15,11 @@
 - `index.html`: Browser-friendly version of the campaign project plan.
 - `Presidential_Campaign_Project_Plan.html`: Named copy of the same HTML artifact for provenance.
 
+## Public Links
+
+- Repository: https://github.com/ahill037/presidential-campaign-project-plan
+- GitHub Pages: https://ahill037.github.io/presidential-campaign-project-plan/
+
 ## Important Notes
 
 - This is a planning artifact, not legal advice.
