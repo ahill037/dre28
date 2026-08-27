@@ -14,6 +14,7 @@
 
 - `index.html`: Browser-friendly version of the campaign project plan.
 - `Presidential_Campaign_Project_Plan.html`: Named copy of the same HTML artifact for provenance.
+- `mcp/`: Narrow onboarding MCP server for the GX10.
 
 ## Public Links
 
@@ -57,4 +58,12 @@
 ## Local Viewing
 
 - Open `index.html` in a browser to view the plan.
+
+## GX10 Onboarding MCP
+
+- Service name: `dre28-onboarding-mcp.service`
+- Default endpoint on GX10: `http://127.0.0.1:8790/mcp`
+- Health endpoint on GX10: `http://127.0.0.1:8790/healthz`
+- Purpose: serve the dre28 onboarding prompt, project brief, and DreAnalytica communication policy.
+- Boundary: onboarding/read-only only; no shell, DB, broker, filing, donation, or credential tools.
 
