@@ -18,7 +18,14 @@
 ## Public Links
 
 - Repository: https://github.com/ahill037/dre28
-- GitHub Pages: https://ahill037.github.io/dre28/
+- Primary domain: https://ayemane.com
+- GitHub Pages fallback: https://ahill037.github.io/dre28/
+
+## Domain Setup
+
+- Intended production domain: `ayemane.com`
+- GitHub Pages custom-domain file: `CNAME`
+- DNS status on 2026-08-27: `ayemane.com` and `www.ayemane.com` resolve to Squarespace records, so registrar/DNS changes are still required before this repository serves the custom domain.
 
 ## Important Notes
 
