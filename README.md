@@ -19,7 +19,7 @@
 
 - Repository: https://github.com/ahill037/dre28
 - Primary domain: https://ayemane.com
-- GitHub Pages fallback: https://ahill037.github.io/dre28/
+- GitHub Pages source URL: https://ahill037.github.io/dre28/ redirects to the custom domain after GitHub Pages custom-domain configuration.
 
 ## Domain Setup
 
