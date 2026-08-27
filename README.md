@@ -17,8 +17,8 @@
 
 ## Public Links
 
-- Repository: https://github.com/ahill037/presidential-campaign-project-plan
-- GitHub Pages: https://ahill037.github.io/presidential-campaign-project-plan/
+- Repository: https://github.com/ahill037/dre28
+- GitHub Pages: https://ahill037.github.io/dre28/
 
 ## Important Notes
 
@@ -37,3 +37,4 @@
 ## Local Viewing
 
 - Open `index.html` in a browser to view the plan.
+
